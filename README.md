@@ -127,3 +127,9 @@ POST /api/v3/webhooks/               → create alert webhook
 | Risk engine | Basic | Full | Full + Stress |
 | Alerts | 5 | 50 | Unlimited |
 | Portfolios | 1 | 10 | Unlimited |
+output 
+<img width="1842" height="792" alt="Screenshot 2026-04-13 161928" src="https://github.com/user-attachments/assets/7edf6cfd-708e-4a3f-ac2b-ce2c678339cd" />
+<img width="1705" height="608" alt="Screenshot 2026-04-13 161937" src="https://github.com/user-attachments/assets/918eb8d2-c25c-4327-b9ae-c008af8e97f8" />
+<img width="1879" height="824" alt="Screenshot 2026-04-13 161954" src="https://github.com/user-attachments/assets/cd40549b-19d4-4986-94d7-de70fc217c6f" />
+<img width="1815" height="810" alt="Screenshot 2026-04-13 162020" src="https://github.com/user-attachments/assets/ffa5f2ca-1be2-4d13-955b-24b39adbca3e" />
+

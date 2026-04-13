@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Env
+.env
+.env.local
+*.env
+
+# ML models (large binaries)
+ml_engine/registry/*.h5
+ml_engine/registry/*.pkl
+ml_engine/registry/*.keras
+data_engine/storage/
+
+# Docker
+infra/docker/data/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Migrations (keep structure, not auto-generated)
+backend/migrations/versions/
